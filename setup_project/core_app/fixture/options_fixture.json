@@ -1,0 +1,6 @@
+
+[
+{"model": "core_app.option", "pk": 1, "fields": {"alternative": "A"}}, 
+{"model": "core_app.option", "pk": 2, "fields": {"alternative": "B"}}, 
+{"model": "core_app.option", "pk": 3, "fields": {"alternative": "C"}}, 
+{"model": "core_app.option", "pk": 4, "fields": {"alternative": "D"}}]
