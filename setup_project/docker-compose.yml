@@ -27,7 +27,7 @@ services:
       - POSTGRES_NAME=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - DJANGO_SUPERUSER_PASSWORD=Derica@6969
+      - DJANGO_SUPERUSER_PASSWORD=Xorislife@112358
     container_name: api_container
     depends_on:
       - db
